@@ -4,9 +4,9 @@ document.getElementById("introductionBtn").addEventListener("click", function() 
 });
 
 document.getElementById("infoBtn").addEventListener("click", function() {
-  window.location.href = "Ryu's TMI.html";
+  window.location.href = "Ryu's_TMI.html";
 });
 
 document.getElementById("plansBtn").addEventListener("click", function() {
-  window.location.href = "Plan.html";
+  window.location.href = "Plans.html";
 });
